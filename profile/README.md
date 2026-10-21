@@ -1,8 +1,8 @@
 # Trends MCP
 
-Live trend data for AI assistants and agents. One MCP server and REST API for Google Trends, YouTube, TikTok, Reddit, Amazon, Wikipedia, news, app stores, npm, Steam and more.
+The MCP server for trend data. Give Claude, ChatGPT, Cursor and any AI agent live Google Trends, TikTok trends, YouTube trends, Reddit, Amazon, Wikipedia, news, app store, npm and Steam data through one MCP server and REST API.
 
-- **What's trending now:** ranked live feeds from Google, TikTok, YouTube, X, Reddit, Amazon and 20+ more
+- **What's trending now:** live trending topics and ranked feeds from Google, TikTok, YouTube, X, Reddit, Amazon and 20+ more
 - **Is it growing:** percent growth over any window, across several platforms at once
 - **History:** up to 5 years of search interest for any keyword
 - **Works in** Claude, ChatGPT, Cursor, VS Code, Windsurf and any MCP client
