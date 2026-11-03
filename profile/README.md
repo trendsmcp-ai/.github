@@ -5,6 +5,7 @@ The MCP server for trend data. Give Claude, ChatGPT, Cursor and any AI agent liv
 - **What's trending now:** live trending topics and ranked feeds from Google, TikTok, YouTube, X, Reddit, Amazon and 20+ more
 - **Is it growing:** percent growth over any window, across several platforms at once
 - **History:** up to 5 years of search interest for any keyword
+- **What people are saying:** posts, videos, stories and comments about a keyword from Reddit, X, TikTok, YouTube, Instagram, Bluesky, Hacker News and news
 - **Works in** Claude, ChatGPT, Cursor, VS Code, Windsurf and any MCP client
 
 ## Connect
